@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>🚀 Hello, GitHub Actions!</h1>
+        <h1>Hello, GitHub Actions!</h1>
         <p>
           이 프로젝트는 <strong>CI/CD</strong> 파이프라인을 연습하기 위해 만들어졌어요.
         </p>
